@@ -1,10 +1,5 @@
-Heyyy! 👋
+# Heyyy! 👋
 
-I'm a high school student from sunny Arizona, and this is my current GitHub account! 🌵  
-I'm passionate about computer science and hoping to study at Purdue University or ASU.  
-Web development is my jam—I love working with React, Vite, TypeScript, and all sorts of cool technologies. 💻
+I'm **Lucio**. My world is a mix of tech and fresh air—I spend a lot of time coding and building things, but I've gotta have my balance. When I step away from the keyboard, I'm usually outside for a hike, or maybe indoors baking up a storm. Seriously, any chance to be outdoors is a win in my book, especially if I can kick back with an ice-cold Mexican Coke.
 
-Besides coding, I’m really into food (especially baking 🥐), hiking 🥾, and flying as a student pilot ✈️.  
-Whether I'm building web apps, whipping up something tasty, or soaring through the skies, I'm always excited to learn and explore.
-
-Feel free to connect or check out my projects! 🚀
+If you want to chat, feel free to **email me**, or you can see what I'm up to on my **website** here: [castelliniluc.io](https://castelliniluc.io).
